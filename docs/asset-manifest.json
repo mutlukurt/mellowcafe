@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/mellowcafe/static/css/main.90af4d72.css",
+    "main.js": "/mellowcafe/static/js/main.090db7e2.js",
+    "index.html": "/mellowcafe/index.html",
+    "main.90af4d72.css.map": "/mellowcafe/static/css/main.90af4d72.css.map",
+    "main.090db7e2.js.map": "/mellowcafe/static/js/main.090db7e2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.90af4d72.css",
+    "static/js/main.090db7e2.js"
+  ]
+}

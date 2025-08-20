@@ -6,6 +6,14 @@
 [![MongoDB](https://img.shields.io/badge/MongoDB-4.5.0-47A248.svg)](https://www.mongodb.com/)
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
+## 🌐 Live Demo
+
+**🚀 [View Live Site → https://mutlukurt.github.io/mellowcafe/](https://mutlukurt.github.io/mellowcafe/)**
+
+Experience the full Mellow Café website with all features including the interactive menu, photo gallery, location services, and contact forms.
+
+---
+
 A modern, full-stack web application for Mellow Café featuring a beautiful frontend website and robust backend API. This project demonstrates a complete restaurant management system with modern web technologies.
 
 ## 🚀 Features
